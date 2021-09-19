@@ -17,9 +17,8 @@ TODO: who worked on what part?
 TODO: what worked / what didn't work
 
 ## Authors
+Brandon Guzman 
 
-TODO: list of authors
-
-## Acknowledgments
-
-TODO: cite any tutorials followed here
+## Acknowledgments/ Tutorials Followed 
+https://developer.apple.com/tutorials/swiftui/creating-and-combining-views
+https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation
