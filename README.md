@@ -19,12 +19,16 @@ I could follow along for the most part and really appreciated the quiz at the en
 
 The second tutorial showed how to create a scrolling list and how to fine-tune the previews for different sizes, this was a bit more complicated to follow.
 The third one covered adding a star button to favorite locations and then configure the display to only list favorited locations.
+The fourth and fifth tutorials covered how to creat a small badge with built in swift graphics and how to animate a transition. 
+
+
+Overall this project was fun but got increasingly hard to follow as the explanations weren't the most in-depth and I feel like I have a very superficial understanding of the structure of Swift. Quizzes at the end of each tutorial did help but I was still left with many questions as to the specific details on a lot of code.
 
 ## Authors
 Brandon Guzman 
 
 ## Acknowledgments/ Tutorials Followed 
-https://developer.apple.com/tutorials/swiftui/creating-and-combining-views
-https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation
-https://developer.apple.com/tutorials/swiftui/handling-user-input
-https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes
+* https://developer.apple.com/tutorials/swiftui/creating-and-combining-views
+* https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation
+* https://developer.apple.com/tutorials/swiftui/handling-user-input
+* https://developer.apple.com/tutorials/swiftui/drawing-paths-and-shapes
