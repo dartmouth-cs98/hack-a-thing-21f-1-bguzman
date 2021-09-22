@@ -24,6 +24,8 @@ The fourth and fifth tutorials covered how to creat a small badge with built in 
 
 Overall this project was fun but got increasingly hard to follow as the explanations weren't the most in-depth and I feel like I have a very superficial understanding of the structure of Swift. Quizzes at the end of each tutorial did help but I was still left with many questions as to the specific details on a lot of code.
 
+I think the interface with the canvas is very helpful as it lets you see live what you're typing and how it affects the view. The numerous files make it a bit hard to follow what you're working on and having to update all the other files at the same time. 
+
 ## Authors
 Brandon Guzman 
 
