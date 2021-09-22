@@ -2,7 +2,7 @@
 
 
 ## What you built? 
-I attempted to build a small on swift called Landmarks that allows its users to favorite their preferred locations and had basic functions such as scrolling and some buttons that provided details on each location's hike.
+I attempted to build a small app on Xcode using Swift called Landmarks that allows its users to favorite their preferred locations and had basic functions such as scrolling and some buttons that provided details on each location's hike.
 
 <img width="298" alt="Screen Shot 2021-09-20 at 1 18 24 PM" src="https://user-images.githubusercontent.com/63322692/134285412-7fa8856c-301e-4d69-8be8-afe7c9d3cb4d.png">\
 <img width="343" alt="Screen Shot 2021-09-22 at 10 40 43 AM" src="https://user-images.githubusercontent.com/63322692/134365203-292b9331-bf69-42a6-8e74-5373a7681400.png">
